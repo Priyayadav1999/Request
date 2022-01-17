@@ -1,0 +1,15 @@
+{
+    "data": [
+        {
+            "id": "7689",
+            "parent_exercise_id": null,
+            "name": "Alumni-Stories",
+            "slug": "alumni-story_json__Alumni-Stories_json",
+            "sequence_num": 0,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/alumni-story_json/Alumni-Stories.json",
+            "submission_type": null,
+            "childExercises": []
+        }
+    ]
+}
